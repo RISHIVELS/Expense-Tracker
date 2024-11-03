@@ -27,7 +27,7 @@ function Adder() {
         className="border-[1.5px] px-2 py-2 mt-2 w-full"
       />
       <button
-        className="w-full p-2 mb-10 text-white bg-purple-600 mt-5 rounded-sm"
+        className="w-full p-2  text-white bg-purple-600 mt-5 rounded-sm"
         onClick={handleSubmit}
       >
         Add transaction
